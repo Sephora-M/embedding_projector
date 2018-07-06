@@ -6,8 +6,8 @@
 		60399,
 		300
 	],
-	"tensorPath": "https://raw.githubusercontent.com/Sephora-M/embedding_projector/master/obligationSubject_10words_vectors_20f.tsv",
-	"metadataPath": "https://raw.githubusercontent.com/Sephora-M/embedding_projector/master/obligationSubject_10words_metadata.tsv"
+	"tensorPath": "https://media.githubusercontent.com/media/Sephora-M/embedding_projector/master/obligationSubject_10words_vectors_20f.tsv",
+	"metadataPath": "https://media.githubusercontent.com/media/Sephora-M/embedding_projector/master/obligationSubject_10words_metadata.tsv"
     }
   ]
 }
